@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+}
+body button {
+    font-size: 35px;
+    padding-bottom: 10px;
+    background-color: red;
+    border: 0px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    width: 500px
+}
+
+body button:hover {
+    background-color: rgba(254, 144, 144, 0.539);
+}
+
+body button:active {
+    background-color: rgb(113, 0, 0);
+}
